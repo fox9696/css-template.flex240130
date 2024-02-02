@@ -1,5 +1,5 @@
-@import url(./common.css);
 @import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('common.css');
 
 body {
   font-size: 15px;
@@ -302,7 +302,7 @@ section.contents .partner ul li:hover {
 section.contents .contact {
   width: 90%;
   padding: 220px 0;
-  background-image: url(../) no-repeat center/cover fixed;
+  background: url('../img/contact.jpg') no-repeat center/cover fixed;
 }
 
 section.contents .contact .inner {
